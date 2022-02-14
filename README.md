@@ -1,4 +1,4 @@
-# Trannielloetal_eQTLs
+# Tranielloetal_eQTLs
 
 # match_geneExp_genotype.R
 
